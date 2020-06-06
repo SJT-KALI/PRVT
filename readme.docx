@@ -1,0 +1,7 @@
+MINI CALCULATOR
+
+    This a simple app for performing basic calculation such addition,subtraction,multiplication,division and modules.
+ In the  app ,consist of a single operand screen .So at a time it shows only a single operand (same as the old calculator).
+ Warning:While performing the calculation it does not show operators on clicking.So after clicking any operator just type the
+ next operand.
+
